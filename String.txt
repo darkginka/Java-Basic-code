@@ -1,0 +1,14 @@
+java String:
+A.serializable
+B.Comparble
+C.Char-Sequnce
+	1.String
+	2.StringBuffer Thread-safe Syncronization
+	3.StringBuilder
+
+String Pool
+heap memory
+save space
+
+55580539464
+
